@@ -2,11 +2,17 @@
 Full Stack Engineer with over three years of experience of solving complex problems and delivering impactful solutions.
 
 LinkedIn: [ismailshalih-ak](https://www.linkedin.com/in/ismailshalih-ak/) 
+
 Email: ismailshalih@gmail.com
+
 ## Experience
+
 `April 2022 - August 2024`
+
 **Segari**
+
 Full Stack Engineer
+
 As a Full Stack Engineer on the PCGM (Pricing, Cost, Growth, and Mitra) team, I played a pivotal role in developing and deploying key features for the Segari web and mobile applications, as well as related internal tools. My contributions included:
 
 - **Analytics Integration:** Managed the integration of analytics, ensuring seamless data flow to third-party analytics tools from the Segari app. 
@@ -19,8 +25,11 @@ As a Full Stack Engineer on the PCGM (Pricing, Cost, Growth, and Mitra) team, I 
 Tech Stack: Spring boot, react.js, Flutter, Postgresql
 
 `April 2022 - August 2024`
+
 **Solecode**
+
 Software Engineer
+
 Creating solutions for Solecode's clients in a timely manner using low-code platforms.
 
 Tech Stack: Wavemaker, Outsystem
@@ -28,7 +37,9 @@ Tech Stack: Wavemaker, Outsystem
 ## Education
 
 `2015 - 2020`
+
 **Universitas Indonesia**
+
 Bachelor's degree, Computer Science
 
 ## Skills 
