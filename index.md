@@ -1,91 +1,38 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ismail Shalih Abdul Kholiq
+Full Stack Engineer with over three years of experience of solving complex problems and delivering impactful solutions.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+LinkedIn: [ismailshalih-ak](https://www.linkedin.com/in/ismailshalih-ak/) 
+Email: ismailshalih@gmail.com
+## Experience
+`April 2022 - August 2024`
+**Segari**
+Full Stack Engineer
+As a Full Stack Engineer on the PCGM (Pricing, Cost, Growth, and Mitra) team, I played a pivotal role in developing and deploying key features for the Segari web and mobile applications, as well as related internal tools. My contributions included:
 
+- **Analytics Integration:** Managed the integration of analytics, ensuring seamless data flow to third-party analytics tools from the Segari app. 
+- **Deeplink Handler Development:** Developed and implemented deeplink handlers for specific pages within the Segari mobile app, improving user navigation. 
+- **Image Compression Integration:** Integrated a third-party image compression library to optimize image storage and reduce associated costs. 
+- **Discovery Page:** Developed the initial versions of the Discovery Page, a customizable interface for showcasing images and custom product grids, used for Flash Sales, Custom Promotions, and many more. 
+- **Voucher Selection Page:** Created a user-friendly Voucher Selection Page, allowing users to browse and apply available vouchers without the need for manual promo code entry. 
+- **Payment Settings Page:** Developed the Payment Settings Page, enabling users to manage linked payments independently, including adding new payment methods and deleting existing ones without customer service intervention.
 
-## Currently
+Tech Stack: Spring boot, react.js, Flutter, Postgresql
 
-Standing on the shoulders of giants
+`April 2022 - August 2024`
+**Solecode**
+Software Engineer
+Creating solutions for Solecode's clients in a timely manner using low-code platforms.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Tech Stack: Wavemaker, Outsystem
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2020`
+**Universitas Indonesia**
+Bachelor's degree, Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Skills 
+- **Frontend:** React.js, Flutter 
+- **Backend:** Java Spring Boot, Node.js
+- **Database:** PostgreSQL 
+- **Tools:** Git, Android Studio, IntelliJ, VSCode, DBeaver, Postman
