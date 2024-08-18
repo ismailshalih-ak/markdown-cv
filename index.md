@@ -20,7 +20,7 @@ As a Full Stack Engineer on the PCGM (Pricing, Cost, Growth, and Mitra) team, I 
 - **Voucher Selection Page:** Created a user-friendly Voucher Selection Page, allowing users to browse and apply available vouchers without the need for manual promo code entry. 
 - **Payment Settings Page:** Developed the Payment Settings Page, enabling users to manage linked payments independently, including adding new payment methods and deleting existing ones without customer service intervention.
 
-Tech Stack: Spring boot, react.js, Flutter, Postgresql
+Tech Stack: Spring boot, react.js, Flutter, Postgresql, Redis
 
 
 
@@ -41,5 +41,5 @@ Bachelor's degree, Computer Science
 ## Skills 
 - **Frontend:** React.js, Flutter 
 - **Backend:** Java Spring Boot, Node.js
-- **Database:** PostgreSQL 
+- **Database:** PostgreSQL, Redis
 - **Tools:** Git, Android Studio, IntelliJ, VSCode, DBeaver, Postman
